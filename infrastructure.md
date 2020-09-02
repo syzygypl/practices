@@ -4,6 +4,7 @@ Nasza infrastuktura, wdrożenia, oraz process wytworzenia są robione zgodnie z 
 * [Infrastructure as a Code](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code)
 * [Blue Green Deployment](https://medium.com/rackbrains/understanding-blue-green-deployments-c941a841bbdb)
 * Wdrożenie logowania oraz monitoringu
+* Konteneryzacja za pomocą Docker
 
 W nasym modelu organizacji developerzy dostają dużo przestrzeni i obowiązków jakoch chodzi o infrastrukture, idziemy za pryncypem: "you build it, you run it".
 Wsparciem w ramach zbudowania dobrych centralizowanych praktyk, zbudowania warstry infrastruktury, oraz pomocy w codziennej pracy zajmuje się firma konsultacyjna.
